@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1012289847752",
+    "firebase_url": "https://wasteclassifiercustommodelfb.firebaseio.com",
+    "project_id": "wasteclassifiercustommodelfb",
+    "storage_bucket": "wasteclassifiercustommodelfb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012289847752:android:7deb73472ddb4c51",
+        "android_client_info": {
+          "package_name": "com.example.wasteclassifiercustommodel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012289847752-lsvnco2o9fhndsrtlfa5uc52unq060q6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqGqC4b8KE5hIJagDZpz7Z19EUVUSucLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012289847752-lsvnco2o9fhndsrtlfa5uc52unq060q6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
